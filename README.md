@@ -82,7 +82,9 @@ series, and the tasks specified in arrays in parallel.
 ## Exercise
 
 I've removed all of the libraries that minimize files from the example gulpfile.
-Write a new gulpfile that also minimizes that various CSS and Javascript files.
+
+**Write a new gulpfile that also minimizes that various CSS and Javascript files.**
+
 See how fast you can get the page to load. For a benchmark, on my computer,
 served locally, the unminified version loads in about 200ms, while the minified
 version loads in less than 150ms. Of course, with larger sites that have more
